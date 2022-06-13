@@ -643,6 +643,7 @@ void Mixer::run()
          // poll for new profiles and volumes every second
          GetProfile();
          getVolume();
+         wait_cnt = 0;
       }
       XSync(mDisplay, False);
    }
