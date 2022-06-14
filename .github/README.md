@@ -3,6 +3,10 @@
 PulseMixer.app is a mixer utility for Linux systems with PulseAudio.
 It is designed to be docked in Window Maker (and other wms). This utility has
 three volume controllers:
+
+<br>
+&nbsp;
+
 - 1st: Default Audio SINK (your speakers)
 - 2nd: Default Audio SOURCE (your microphone)
 - 3rd: Any application that matches a search pattern (default Firefox)
