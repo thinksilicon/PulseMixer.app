@@ -10,7 +10,7 @@ CXX=c++
 CXXFLAGS += -Wall -pedantic -fno-rtti -fno-exceptions -O2 -fexceptions
 LDFLAGS += -lXpm -lXext -lX11 -lpulse
 
-OBJECTS = Main.o Mixer.o Xpm.o PMixer/PMixer.o PMixer/pulse.o
+OBJECTS = Main.o Mixer.o Xpm.o PMixer/pulse.o
 
 all: PulseMixer.app
 
