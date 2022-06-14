@@ -1,5 +1,7 @@
 # Description
-<div style="float:left;margin-right:10px;margin-bottom:10px;" >![screenshot](screenshot.png)</div>
+<div style="float:left;margin-right:10px;margin-bottom:10px;" >
+![screenshot](screenshot.png)
+</div>
 PulseMixer.app is a mixer utility for Linux systems with PulseAudio.
 It is designed to be docked in Window Maker (and other wms). This utility has
 three volume controllers:
